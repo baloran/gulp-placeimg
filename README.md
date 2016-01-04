@@ -3,9 +3,9 @@
 
 # Gulp PlaceImg
 
-> An PlaceHolder images plugin for gulp.
+> An images PlaceHolder plugin for gulp.
 
-Replace all images by your choice or predefined selection of pictures.. with swag.
+Replace all pictures by pictures of your choice or by a selection of pictures… with swag.
 
 ## Installation
 
