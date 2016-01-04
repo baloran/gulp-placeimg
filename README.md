@@ -1,5 +1,6 @@
 [![Dependency Status](https://david-dm.org/baloran/gulp-placeimg.svg?style=flat)](https://david-dm.org/baloran/gulp-placeimg)
 [![devDependency Status](https://david-dm.org/baloran/gulp-placeimg/dev-status.svg?style=flat)](https://david-dm.org/baloran/gulp-placeimg#info=devDependencies)
+[![Build Status](https://travis-ci.org/baloran/gulp-placeimg.svg)](https://travis-ci.org/baloran/gulp-placeimg)
 
 # Gulp PlaceImg
 
