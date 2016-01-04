@@ -26,6 +26,8 @@ gulp.task('default', function () {
 });
 ```
 
+All src will be replaced.
+
 ### Configuration
 
 > Forthcoming
